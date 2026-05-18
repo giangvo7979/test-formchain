@@ -426,7 +426,7 @@ export default function App() {
       <header className="header">
         <div className="header-inner">
           <div className="logo">
-            <span className="logo-icon"><img src="https://aggregator.walrus-mainnet.walrus.space/v1/blobs/YzsRios57h2st5Tu7OQUJmsT4Lr9duddamSS8q7Lo6c" style={{width:50,height:50,borderRadius:8,objectFit:'cover'}} /></span>
+            <span className="logo-icon"><img src="https://aggregator.walrus-mainnet.walrus.space/v1/blobs/YzsRios57h2st5Tu7OQUJmsT4Lr9duddamSS8q7Lo6c" style={{width:36,height:36,borderRadius:8,objectFit:'cover'}} /></span>
             <span className="logo-text">Walrus <span className="logo-accent">+ Seal</span> Tester</span>
           </div>
           <ConnectButton />
