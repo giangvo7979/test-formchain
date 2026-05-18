@@ -14,7 +14,6 @@ const sealClient = new SealClient({
   suiClient,
   serverConfigs: [
     { objectId: '0xe0eb52eba9261b96e895bbb4deca10dcd64fbc626a1133017adcd5131353fd10', weight: 1 },
-    { objectId: '0x145540d931f182fef76467dd8074c9839aea126852d90d18e1556fcbbd1208b6', weight: 1 },
   ],
   verifyKeyServers: true,
 });
