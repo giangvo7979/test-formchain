@@ -24,4 +24,4 @@ export const WALRUS_EPOCHS_RESPONSE = 10;
 export const WALRUS_EPOCHS_FILE = 10;
 
 export const NETWORK = import.meta.env.VITE_NETWORK ?? 'mainnet';
-export const SEAL_THRESHOLD = 2;
+export const SEAL_THRESHOLD = 1;
