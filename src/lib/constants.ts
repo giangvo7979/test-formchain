@@ -1,8 +1,8 @@
 export const PACKAGE_ID =
-  import.meta.env.VITE_PACKAGE_ID ?? '0xTODO_REPLACE_WITH_PACKAGE_ID';
+  import.meta.env.VITE_PACKAGE_ID ?? '0xb0230f55f042d55838f312cb193ec67df1ed2a0fb2ce48a18183e7e67878103f';
 
 export const REGISTRY_ID =
-  import.meta.env.VITE_REGISTRY_ID ?? '0xTODO_REPLACE_WITH_REGISTRY_ID';
+  import.meta.env.VITE_REGISTRY_ID ?? '0xc7c1b0db4d7a7268197af81821ac0bbd3d2db2a756400507fc0a32666d4416fd';
 
 export const CLOCK_ID = '0x6';
 
