@@ -444,7 +444,7 @@ export default function App() {
             {/* Left: Forms list */}
             <div className="panel">
               <div className="panel-header">
-                <span className="panel-title">My Forms</span>
+                <span className="panel-title">Forms</span>
                 <button className="btn-icon" onClick={loadForms} disabled={loadingForms} title="Refresh">
                   <RefreshCw size={14} className={loadingForms ? 'spin' : ''} />
                 </button>
